@@ -1,4 +1,4 @@
-(defproject org.clojure/core.logic "0.8.4-SNAPSHOT" 
+(defproject com.gfredericks/core.logic "0.8.4-LOGIC-137"
   :description "A logic/relational programming library for Clojure"
   :parent [org.clojure/pom.contrib "0.0.25"]
 
